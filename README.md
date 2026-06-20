@@ -1,5 +1,5 @@
 Proyecto e-commerce 23040466
-SuperHero App - Catálogo de Superhéroes
+# SuperHero App - Catálogo de Superhéroes
 
 Aplicación web Full Stack para gestionar un catálogo de superhéroes, con autenticación de usuarios, lista de favoritos y CRUD completo.
 
