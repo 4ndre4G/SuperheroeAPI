@@ -1,6 +1,9 @@
 Proyecto e-commerce 23040466
+SuperHero App - Catálogo de Superhéroes
 
-El frontend solo necesita descargar Angular debido a que estando en el archivo lo hacía muy pesado, para hacerlo ejecutar solo es necesario descargarle Angular.
+Aplicación web Full Stack para gestionar un catálogo de superhéroes, con autenticación de usuarios, lista de favoritos y CRUD completo.
+
+(El frontend solo necesita descargar Angular debido a que estando en el archivo lo hacía muy pesado, para hacerlo ejecutar solo es necesario descargarle Angular)
 
 El proyecto consiste en una pagina web simulando un e-commerce mediante el uso de superheroes. El usuario puede crearse una cuenta, iniciar sesion, escoger sus superheroes favoritos y quitarlos de la lista de favoritos.
 Las pestañas que hay son la de inicio de sesión, crear cuenta, pagina principal, "learn more", favoritos.
@@ -42,7 +45,41 @@ Pestaña de favoritos y quitar de favoritos en acción:
 <img width="1366" height="768" alt="EliminadoFavoritosExitoso" src="https://github.com/user-attachments/assets/1ef771cf-e925-415c-9438-77be0563e781" />
 <img width="1366" height="768" alt="Favoritos" src="https://github.com/user-attachments/assets/7d39ab6e-b08c-4181-be67-0cc64149a2ec" />
 
+## 🛠️ Tecnologías Utilizadas
 
+### Backend
+| Tecnología | Versión | Descripción |
+|------------|---------|-------------|
+| Node.js | v18.x | Entorno de ejecución JavaScript |
+| Express.js | v5.x | Framework web para Node.js |
+| PostgreSQL | v14+ | Base de datos relacional |
+| Knex.js | v3.x | Query builder para SQL |
+| Objection.js | v3.x | ORM ligero para Node.js |
+| JWT (jsonwebtoken) | v9.x | Autenticación con tokens |
+| bcryptjs | v3.x | Encriptación de contraseñas |
+| CORS | v2.x | Middleware para peticiones entre orígenes |
+| dotenv | v17.x | Manejo de variables de entorno |
+
+### Frontend
+| Tecnología | Versión | Descripción |
+|------------|---------|-------------|
+| Angular | v21.x | Framework para aplicaciones SPA |
+| TypeScript | v5.x | Superset de JavaScript tipado |
+| SCSS | - | Preprocesador CSS |
+| Angular Router | - | Sistema de navegación |
+| Angular HttpClient | - | Peticiones HTTP |
+| Angular Forms | - | Manejo de formularios |
+
+### Herramientas de Desarrollo
+| Herramienta | Descripción |
+|-------------|-------------|
+| Visual Studio Code | Editor de código |
+| Postman | Pruebas de API |
+| Git & GitHub | Control de versiones |
+| Angular CLI | Generación de componentes y servicios |
+| pgAdmin | Administración de PostgreSQL |
+
+---
 
 
 
