@@ -45,7 +45,7 @@ Pestaña de favoritos y quitar de favoritos en acción:
 <img width="1366" height="768" alt="EliminadoFavoritosExitoso" src="https://github.com/user-attachments/assets/1ef771cf-e925-415c-9438-77be0563e781" />
 <img width="1366" height="768" alt="Favoritos" src="https://github.com/user-attachments/assets/7d39ab6e-b08c-4181-be67-0cc64149a2ec" />
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Backend
 | Tecnología | Versión | Descripción |
