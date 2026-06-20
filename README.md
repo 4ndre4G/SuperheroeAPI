@@ -14,6 +14,9 @@ Sobre el proyecto ("learn more"):
 <img width="1366" height="768" alt="LearnMore1" src="https://github.com/user-attachments/assets/11759ac6-1b38-4dff-8ef5-e7fd17c805a8" />
 <img width="1366" height="768" alt="LearnMore2" src="https://github.com/user-attachments/assets/e8845cd9-90c5-4bf1-9c7b-22a98a855eac" />
 
+Intentar añadir a favoritos sin tener cuenta iniciada:
+<img width="1366" height="768" alt="FaltaInicioSesion" src="https://github.com/user-attachments/assets/2a5f78a9-596c-407e-bb0e-8333396415bd" />
+
 Registro usuario:
 <img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/7915d507-11c1-4573-bc46-4a597d8b0c9f" />
 
@@ -28,6 +31,17 @@ Nuevo Heroe:
 <img width="1366" height="768" alt="NuevoHeroe" src="https://github.com/user-attachments/assets/b087045e-9bde-495d-80fe-adbccebcd66e" />
 <img width="1366" height="768" alt="Agregandohereo" src="https://github.com/user-attachments/assets/e711a406-2f00-4845-8d37-72a0b61c77cd" />
 <img width="1366" height="768" alt="Heroeagregado" src="https://github.com/user-attachments/assets/0e965d8f-10f2-4308-a0d0-8843bf64e9fe" />
+<img width="1366" height="768" alt="HeroeAgregadoExitoso" src="https://github.com/user-attachments/assets/10e4ac62-2753-4a80-9dc9-7dc4d13beab3" />
+
+
+Añadir a favoritos:
+<img width="1366" height="768" alt="Añadir favoritos" src="https://github.com/user-attachments/assets/eb243e20-4c86-4e17-a62b-4072d91ffd9a" />
+
+Pestaña de favoritos y quitar de favoritos en acción:
+<img width="1366" height="768" alt="Quitarfavoritos" src="https://github.com/user-attachments/assets/29a6a45f-6073-47e6-9e99-88cb82b335e8" />
+<img width="1366" height="768" alt="EliminadoFavoritosExitoso" src="https://github.com/user-attachments/assets/1ef771cf-e925-415c-9438-77be0563e781" />
+<img width="1366" height="768" alt="Favoritos" src="https://github.com/user-attachments/assets/7d39ab6e-b08c-4181-be67-0cc64149a2ec" />
+
 
 
 
